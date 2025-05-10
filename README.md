@@ -46,7 +46,7 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
 Developed by:Guru Raghav Ponjeevith V 
 RegisterNumber:212223220027
 ```
-```
+```verilog
 module exp7 (
     input J,
     input K,
